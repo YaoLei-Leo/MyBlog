@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Office on Leo&#39;s Blog</title>
-    <link>//localhost:1313/tags/office/</link>
+    <link>/tags/office/</link>
     <description>Recent content in Office on Leo&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Jan 2021 18:30:40 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/office/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/office/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Officel first post</title>
-      <link>//localhost:1313/posts/officel-first-post/</link>
+      <link>/posts/officel-first-post/</link>
       <pubDate>Wed, 13 Jan 2021 18:30:40 +0600</pubDate>
-      <guid>//localhost:1313/posts/officel-first-post/</guid>
+      <guid>/posts/officel-first-post/</guid>
       <description>&lt;p&gt;consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Officel post</title>
-      <link>//localhost:1313/posts/officel-post/</link>
+      <link>/posts/officel-post/</link>
       <pubDate>Wed, 13 Jan 2021 18:10:30 +0600</pubDate>
-      <guid>//localhost:1313/posts/officel-post/</guid>
+      <guid>/posts/officel-post/</guid>
       <description>&lt;p&gt;consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/20241231_year-endsummary/</loc>
+    <loc>/posts/20241231_year-endsummary/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/year-end-summary/</loc>
+    <loc>/tags/year-end-summary/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/my-personal-post/</loc>
+    <loc>/posts/my-personal-post/</loc>
     <lastmod>2021-01-13T19:10:40+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/travel/</loc>
+    <loc>/tags/travel/</loc>
     <lastmod>2021-01-13T19:10:40+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/office/</loc>
+    <loc>/tags/office/</loc>
     <lastmod>2021-01-13T18:30:40+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/officel-first-post/</loc>
+    <loc>/posts/officel-first-post/</loc>
     <lastmod>2021-01-13T18:30:40+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/new-blog-post/</loc>
+    <loc>/posts/new-blog-post/</loc>
     <lastmod>2021-01-13T18:20:40+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/breaking-news-post/</loc>
+    <loc>/posts/breaking-news-post/</loc>
     <lastmod>2021-01-13T18:11:40+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/news/</loc>
+    <loc>/tags/news/</loc>
     <lastmod>2021-01-13T18:11:40+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/my-blog-post/</loc>
+    <loc>/posts/my-blog-post/</loc>
     <lastmod>2021-01-13T18:10:50+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/2nd-blog-post/</loc>
+    <loc>/posts/2nd-blog-post/</loc>
     <lastmod>2021-01-13T18:10:40+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/today-new-post/</loc>
+    <loc>/posts/today-new-post/</loc>
     <lastmod>2021-01-13T18:10:40+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/0ffice/</loc>
+    <loc>/tags/0ffice/</loc>
     <lastmod>2021-01-13T18:10:30+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/my-new-post/</loc>
+    <loc>/posts/my-new-post/</loc>
     <lastmod>2021-01-13T18:10:30+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/officel-post/</loc>
+    <loc>/posts/officel-post/</loc>
     <lastmod>2021-01-13T18:10:30+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/welcome-to-my-personal-blog/</loc>
+    <loc>/posts/welcome-to-my-personal-blog/</loc>
     <lastmod>2021-01-13T17:33:14+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
   </url>
 </urlset>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Leo&#39;s Blog</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Leo&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Year-End Summary</title>
-      <link>//localhost:1313/tags/year-end-summary/</link>
+      <link>/tags/year-end-summary/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/year-end-summary/</guid>
+      <guid>/tags/year-end-summary/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>//localhost:1313/tags/travel/</link>
+      <link>/tags/travel/</link>
       <pubDate>Wed, 13 Jan 2021 19:10:40 +0600</pubDate>
-      <guid>//localhost:1313/tags/travel/</guid>
+      <guid>/tags/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>Office</title>
-      <link>//localhost:1313/tags/office/</link>
+      <link>/tags/office/</link>
       <pubDate>Wed, 13 Jan 2021 18:30:40 +0600</pubDate>
-      <guid>//localhost:1313/tags/office/</guid>
+      <guid>/tags/office/</guid>
       <description></description>
     </item>
     <item>
       <title>News</title>
-      <link>//localhost:1313/tags/news/</link>
+      <link>/tags/news/</link>
       <pubDate>Wed, 13 Jan 2021 18:11:40 +0600</pubDate>
-      <guid>//localhost:1313/tags/news/</guid>
+      <guid>/tags/news/</guid>
       <description></description>
     </item>
     <item>
       <title>0ffice</title>
-      <link>//localhost:1313/tags/0ffice/</link>
+      <link>/tags/0ffice/</link>
       <pubDate>Wed, 13 Jan 2021 18:10:30 +0600</pubDate>
-      <guid>//localhost:1313/tags/0ffice/</guid>
+      <guid>/tags/0ffice/</guid>
       <description></description>
     </item>
   </channel>
