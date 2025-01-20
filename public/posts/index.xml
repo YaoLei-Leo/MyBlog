@@ -2,80 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Leo&#39;s Blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Leo&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jan 2021 19:10:40 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 year-end summary</title>
+      <link>//localhost:1313/posts/20241231_year-endsummary/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/20241231_year-endsummary/</guid>
+      <description>&lt;h3 id=&#34;things-always-push-us-to-change-its-not-optional&#34;&gt;Things always push us to change. It&amp;rsquo;s not optional&lt;/h3&gt;&#xA;&lt;p&gt;Time flies, it&amp;rsquo;s the last day of 2024 today already. I still remember the momment at last year, Xuxu and I waited for the new year countdown in the Causeway Bay Sea Front, and enjoyed the astonished firework in the Victoria Harbour when entering 2024. Xuxu is back from US now, today we will cross the new year in Shenzhen Dayun.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Personal post</title>
-      <link>http://localhost:1313/posts/my-personal-post/</link>
+      <link>//localhost:1313/posts/my-personal-post/</link>
       <pubDate>Wed, 13 Jan 2021 19:10:40 +0600</pubDate>
-      <guid>http://localhost:1313/posts/my-personal-post/</guid>
+      <guid>//localhost:1313/posts/my-personal-post/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Officel first post</title>
-      <link>http://localhost:1313/posts/officel-first-post/</link>
+      <link>//localhost:1313/posts/officel-first-post/</link>
       <pubDate>Wed, 13 Jan 2021 18:30:40 +0600</pubDate>
-      <guid>http://localhost:1313/posts/officel-first-post/</guid>
+      <guid>//localhost:1313/posts/officel-first-post/</guid>
       <description>&lt;p&gt;consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New blog post</title>
-      <link>http://localhost:1313/posts/new-blog-post/</link>
+      <link>//localhost:1313/posts/new-blog-post/</link>
       <pubDate>Wed, 13 Jan 2021 18:20:40 +0600</pubDate>
-      <guid>http://localhost:1313/posts/new-blog-post/</guid>
+      <guid>//localhost:1313/posts/new-blog-post/</guid>
       <description>&lt;p&gt;consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Breaking news post</title>
-      <link>http://localhost:1313/posts/breaking-news-post/</link>
+      <link>//localhost:1313/posts/breaking-news-post/</link>
       <pubDate>Wed, 13 Jan 2021 18:11:40 +0600</pubDate>
-      <guid>http://localhost:1313/posts/breaking-news-post/</guid>
+      <guid>//localhost:1313/posts/breaking-news-post/</guid>
       <description>&lt;p&gt;consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My blog post</title>
-      <link>http://localhost:1313/posts/my-blog-post/</link>
+      <link>//localhost:1313/posts/my-blog-post/</link>
       <pubDate>Wed, 13 Jan 2021 18:10:50 +0600</pubDate>
-      <guid>http://localhost:1313/posts/my-blog-post/</guid>
+      <guid>//localhost:1313/posts/my-blog-post/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2nd blog post</title>
-      <link>http://localhost:1313/posts/2nd-blog-post/</link>
+      <link>//localhost:1313/posts/2nd-blog-post/</link>
       <pubDate>Wed, 13 Jan 2021 18:10:40 +0600</pubDate>
-      <guid>http://localhost:1313/posts/2nd-blog-post/</guid>
+      <guid>//localhost:1313/posts/2nd-blog-post/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Today&#39;s new post</title>
-      <link>http://localhost:1313/posts/today-new-post/</link>
+      <link>//localhost:1313/posts/today-new-post/</link>
       <pubDate>Wed, 13 Jan 2021 18:10:40 +0600</pubDate>
-      <guid>http://localhost:1313/posts/today-new-post/</guid>
+      <guid>//localhost:1313/posts/today-new-post/</guid>
       <description>&lt;p&gt;consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My new post</title>
-      <link>http://localhost:1313/posts/my-new-post/</link>
+      <link>//localhost:1313/posts/my-new-post/</link>
       <pubDate>Wed, 13 Jan 2021 18:10:30 +0600</pubDate>
-      <guid>http://localhost:1313/posts/my-new-post/</guid>
+      <guid>//localhost:1313/posts/my-new-post/</guid>
       <description>&lt;p&gt;consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Officel post</title>
-      <link>http://localhost:1313/posts/officel-post/</link>
+      <link>//localhost:1313/posts/officel-post/</link>
       <pubDate>Wed, 13 Jan 2021 18:10:30 +0600</pubDate>
-      <guid>http://localhost:1313/posts/officel-post/</guid>
+      <guid>//localhost:1313/posts/officel-post/</guid>
       <description>&lt;p&gt;consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to My Personal Blog</title>
-      <link>http://localhost:1313/posts/welcome-to-my-personal-blog/</link>
+      <link>//localhost:1313/posts/welcome-to-my-personal-blog/</link>
       <pubDate>Wed, 13 Jan 2021 17:33:14 +0600</pubDate>
-      <guid>http://localhost:1313/posts/welcome-to-my-personal-blog/</guid>
+      <guid>//localhost:1313/posts/welcome-to-my-personal-blog/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
     </item>
   </channel>

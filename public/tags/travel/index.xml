@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel on Leo&#39;s Blog</title>
-    <link>http://localhost:1313/tags/travel/</link>
+    <link>//localhost:1313/tags/travel/</link>
     <description>Recent content in Travel on Leo&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Jan 2021 19:10:40 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal post</title>
-      <link>http://localhost:1313/posts/my-personal-post/</link>
+      <link>//localhost:1313/posts/my-personal-post/</link>
       <pubDate>Wed, 13 Jan 2021 19:10:40 +0600</pubDate>
-      <guid>http://localhost:1313/posts/my-personal-post/</guid>
+      <guid>//localhost:1313/posts/my-personal-post/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New blog post</title>
-      <link>http://localhost:1313/posts/new-blog-post/</link>
+      <link>//localhost:1313/posts/new-blog-post/</link>
       <pubDate>Wed, 13 Jan 2021 18:20:40 +0600</pubDate>
-      <guid>http://localhost:1313/posts/new-blog-post/</guid>
+      <guid>//localhost:1313/posts/new-blog-post/</guid>
       <description>&lt;p&gt;consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Today&#39;s new post</title>
-      <link>http://localhost:1313/posts/today-new-post/</link>
+      <link>//localhost:1313/posts/today-new-post/</link>
       <pubDate>Wed, 13 Jan 2021 18:10:40 +0600</pubDate>
-      <guid>http://localhost:1313/posts/today-new-post/</guid>
+      <guid>//localhost:1313/posts/today-new-post/</guid>
       <description>&lt;p&gt;consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to My Personal Blog</title>
-      <link>http://localhost:1313/posts/welcome-to-my-personal-blog/</link>
+      <link>//localhost:1313/posts/welcome-to-my-personal-blog/</link>
       <pubDate>Wed, 13 Jan 2021 17:33:14 +0600</pubDate>
-      <guid>http://localhost:1313/posts/welcome-to-my-personal-blog/</guid>
+      <guid>//localhost:1313/posts/welcome-to-my-personal-blog/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
     </item>
   </channel>
