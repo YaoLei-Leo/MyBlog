@@ -1,9 +1,0 @@
-baseURL = 'https://yaolei-leo.github.io/MyBlog/'
-languageCode = 'en-us'
-title = "Leo's Blog"
-theme = 'Blogpaper'
-
-[menu]
-  [[menu.main]]
-  name = "About"
-  url = "/about"
